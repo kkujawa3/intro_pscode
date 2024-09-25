@@ -2,3 +2,11 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+
+
+Display message, "Welcome to Today's Scans - Let's Start Counting!"
+Set number count equal to 2
+Set end count equal to 50
+Set counter equal to o to start
+Print counter count by twos until reaching the end
+When end is reached, display message "Case is Full"

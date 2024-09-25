@@ -2,3 +2,16 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+
+
+Welcome user to the Number Guessing Game
+Generate user number count for user guesses, max is set to 3 and updated with guesses taken
+Display number count for user
+Generate number between 1 and 10 and wait for user to guess
+User inputs guess
+If guess is incorrect
+   then let user know to "try again", update number count and game continues
+else if guess is not between 1 and 10
+   then let user know "not in range", update number count and game continues
+else if correct then let user know "Fabulous, You Got It!"
+Let user know when number count is to 3

@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+
+Welcome user to store
+User enters current location in store
+User enters desired location to be in store
+While the user's current location does not equal desired location
+    users applications let them know to move in direction of desired location
+Set conditions for north, south, east and west
+Repeat until user arrives at desired location
+Display message at arrival "You have arrived at your desired location!" 
+Add confetti to message for fun
